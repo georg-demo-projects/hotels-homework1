@@ -1,2 +1,1 @@
-# hotels-homework1
-hotels homework 1
+Homework 1
