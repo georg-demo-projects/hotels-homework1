@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "start": ""
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
